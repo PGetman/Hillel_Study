@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1595869339436,342,PUT,200,OK,Thread Group 1-1,text,true,,919,253,1,1,https://jsonplaceholder.typicode.com/posts/1,342,0,61

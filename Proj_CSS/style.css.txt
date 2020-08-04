@@ -1,0 +1,16 @@
+
+P {
+  text-decoration:none;
+  text-align:left;
+  text-indent:1.2em;
+  padding-left: 40px;
+  }
+H3 {
+  font-size: 150%;
+  font-family: Arial, Verdana, sans-serif;
+  padding-left: 60px;
+   }
+#spisok1{
+list-style-type:decimal;
+padding-left: 60px;
+}
